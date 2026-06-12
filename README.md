@@ -1,6 +1,6 @@
 # TravelTrips
 
-A modern travel and tourism website showcasing travel packages and destinations.
+A modern travel and tourism website showcasing travel packages and destinations. (only front-end design)
 
 ## Project Files
 
